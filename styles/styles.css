@@ -336,8 +336,8 @@ body.blue-theme {
 }
 
 body.green-theme {
-  --main-accent-color: #059669;   /* Fresh Emerald */
-  --link-hover-color: #10B981;    /* Lighter Mint Green */
+  --main-accent-color: #4f820a;   /* Fresh Emerald */
+  --link-hover-color: #4f820a;    /* Lighter Mint Green */
 }
 
 .wehealthcare-theme {
